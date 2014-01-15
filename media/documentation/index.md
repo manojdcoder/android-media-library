@@ -1,4 +1,4 @@
-# media Module
+# Media Module
 
 ## Description
 
