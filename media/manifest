@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Get access to android media libraries.
+author: Manoj Kumar
+license: Private license.
+copyright: @ 2013
+
+
+# these should not be edited
+name: media
+moduleid: com.mykingdom.media
+guid: cd6b1bbd-4a24-4057-b4df-39c1e5cd22cc
+platform: android
+minsdk: 3.1.0.GA
