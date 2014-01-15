@@ -189,4 +189,4 @@ Manoj Kumar. email : mano.mykingdom@gmail.com
 
 ## License
 
-Private license.
+Public
