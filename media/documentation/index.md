@@ -14,23 +14,21 @@ The media variable is a reference to the Module object.
 
 ## Reference
 
-TODO: If your module has an API, you should document
-the reference here.
 
-### ___PROJECTNAMEASIDENTIFIER__.function
+### Functions
 
 getItems(MediaOption);
 getImageThumbnail(ImageId, ThumbnailOption);
 getVideoThumbnail(VideoId, ThumbnailOption);
 getAlbumArt(AlbumId);
 
-### ___PROJECTNAMEASIDENTIFIER__.property
+### Properties
 
-MEDIA_TYPE_IMAGE
-MEDIA_TYPE_VIDEO
-MEDIA_TYPE_AUDIO
-MEDIA_TYPE_ALL
-THUMBANIL_MINI
+MEDIA_TYPE_IMAGE,
+MEDIA_TYPE_VIDEO,
+MEDIA_TYPE_AUDIO,
+MEDIA_TYPE_ALL,
+THUMBANIL_MINI,
 THUMBANIL_MICRO
 
 ## Usage
