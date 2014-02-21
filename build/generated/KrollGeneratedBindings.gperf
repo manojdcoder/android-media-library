@@ -1,0 +1,18 @@
+%define lookup-function-name lookupGeneratedInit
+%define class-name MediaBindings
+%{
+
+#include <string.h>
+#include <v8.h>
+#include <KrollBindings.h>
+
+#include "com.mykingdom.media.ExampleProxy.h"
+#include "com.mykingdom.media.MediaModule.h"
+
+
+%}
+struct titanium::bindings::BindEntry;
+%%
+com.mykingdom.media.ExampleProxy, ::com::mykingdom::media::media::ExampleProxy::bindProxy, ::com::mykingdom::media::media::ExampleProxy::dispose
+com.mykingdom.media.MediaModule, ::com::mykingdom::media::MediaModule::bindProxy, ::com::mykingdom::media::MediaModule::dispose
+%%

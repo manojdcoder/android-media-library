@@ -39,7 +39,8 @@ Refer example\app.js
 
 var masterWin = Ti.UI.createWindow({
 	navBarHidden : false,
-	backgroundColor : "#fff"
+	backgroundColor : "#fff",
+	exitOnClose: true
 });
 masterWin.open();
 

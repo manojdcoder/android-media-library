@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Manoj Kumar
+license: Public License
+copyright: @ 2014
+
+
+# these should not be edited
+name: media
+moduleid: com.mykingdom.media
+guid: d3832243-765b-4712-a5f7-f25259788923
+platform: android
+minsdk: 3.2.0.GA
