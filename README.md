@@ -184,7 +184,7 @@ masterWin.add(table);
 
 ## Author
 
-Manoj Kumar. email : mano.mykingdom@gmail.com
+Manoj Kumar
 
 ## License
 
