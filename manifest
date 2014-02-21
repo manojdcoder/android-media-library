@@ -4,7 +4,7 @@
 #
 version: 1.0
 apiversion: 2
-description: My module
+description: Access android media store [Images, Videos, Thumbnails, Audio Files]
 author: Manoj Kumar
 license: Public License
 copyright: @ 2014
