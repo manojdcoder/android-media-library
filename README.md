@@ -10,7 +10,7 @@ To access this module from JavaScript, you would do the following:
 
 	var media = require("com.mykingdom.media");
 
-The media variable is a reference to the Module object.	
+The media variable is a reference to the Module object.
 
 ## Reference
 
@@ -70,8 +70,8 @@ Ti.API.info(JSON.stringify(list));
 var table = Ti.UI.createTableView();
 
 /*
- * THUMBANIL_MINI = 96 x 96 JPEG
- * THUMBANIL_MICRO =  512 x 384 JPEG
+ * THUMBANIL_MICRO = 96 x 96 JPEG
+ * THUMBANIL_MINI = 512 x 384 JPEG
  */
 var imageSection = Ti.UI.createTableViewSection({
 	headerTitle : "Images"
